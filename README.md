@@ -1,4 +1,4 @@
-# mathematics-for-ml
+# Machine Learning
 
 
 References:
